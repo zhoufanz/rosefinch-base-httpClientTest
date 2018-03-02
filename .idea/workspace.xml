@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc339072-0ae6-41cf-ad34-bb7f2f65f0f4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpSecretVo.java" afterPath="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpSecretVo.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseBankApiTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseBankApiTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseEmpApiTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseEmpApiTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BaseBankApiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseBankApiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseEmpApiTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseEmpApiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PpPriceDiscountRestControllerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/pp/PpPriceDiscountRestControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpClientSecretSendUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretSendUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpSecretVo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpSecretVo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpParamsVo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpParamsVo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpCommonUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpCommonUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpMethodBase.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/HttpMethodBase.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="160" column="51" lean-forward="false" selection-start-line="160" selection-start-column="51" selection-end-line="160" selection-end-column="51" />
+              <folding>
+                <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1512375083903" expanded="false" signature="153:897" ph="..." />
+                <marker date="1512375083903" expanded="true" signature="1823:1841" ph="/**...*/" />
+                <marker date="1512375083903" expanded="true" signature="2276:2283" ph="{}" />
+                <marker date="1512375083903" expanded="true" signature="2378:2682" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="2767:3462" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="3516:3742" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="3803:3814" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="3853:3859" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="3900:3911" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="3939:3945" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="3951:3969" ph="/**...*/" />
+                <marker date="1512375083903" expanded="true" signature="4012:4185" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="4227:4238" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="4267:4273" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="4336:4347" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="4388:4394" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="4400:4418" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="4448:4459" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="4520:4526" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="4564:4575" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="4592:4598" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="4648:4887" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="4937:4948" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="5003:5009" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="5038:5049" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="5117:5123" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="5175:5186" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="5217:5223" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="5280:5434" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="5470:5481" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="5505:5511" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="5585:5692" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="5742:6020" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="6076:6187" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="6228:6239" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="6291:6297" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="6355:6366" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="6425:6431" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="6482:6493" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="6520:6526" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="6585:6596" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="6631:6637" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="6689:6700" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="6728:6734" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="6794:6870" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="6902:6913" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="6952:6958" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="6997:7008" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="7031:7037" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="7078:7089" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="7153:7159" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="7201:7212" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="7265:7271" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="7328:7440" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="7485:8281" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="8338:9684" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="9754:10143" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="10208:10443" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="10485:10496" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="10556:10562" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="10619:10738" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="10804:10815" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="10852:10858" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="10905:10916" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="10943:10949" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="10984:10995" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="11036:11042" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="11048:11066" ph="/**...*/" />
+                <marker date="1512375083903" expanded="true" signature="11117:11255" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="11261:11279" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="11313:11324" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="11337:11343" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="11417:11492" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="11541:11552" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="11586:11592" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="11649:11798" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="11865:13933" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="14034:14516" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="14613:15229" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="15255:15470" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="15504:15515" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="15532:15538" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="15544:15562" ph="/**...*/" />
+                <marker date="1512375083903" expanded="true" signature="15589:16409" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="16447:16760" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="16817:17033" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="17086:17196" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="17227:17238" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="17250:17256" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="17312:17784" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="17900:19207" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="19321:19909" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="20027:20299" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="20410:20708" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="20827:21243" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="21308:21412" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="21474:21575" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="21715:22907" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="22986:22993" ph="{}" />
+                <marker date="1512375083903" expanded="true" signature="23075:24877" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="24954:24961" ph="{}" />
+                <marker date="1512375083903" expanded="true" signature="25067:25819" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="25929:26277" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="26375:29444" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="29213:29293" ph="responseConsumed() → {" />
+                <marker date="1512375083903" expanded="false" signature="29370:29389" ph="}" />
+                <marker date="1512375083903" expanded="true" signature="29557:30074" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="30182:31755" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="31861:34153" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="34266:34294" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="34407:34923" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="35033:35361" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="35418:35556" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="35597:35608" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="35627:35633" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="35686:35862" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="35908:35919" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="35948:35954" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="36015:36263" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="36269:36287" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="36335:36346" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="36384:36390" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="36396:36414" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="36457:36468" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="36505:36511" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="36574:37273" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="37312:37323" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="37392:37398" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="37438:37449" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="37519:37525" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="37531:37549" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="37595:37606" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="37644:37650" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="37694:38735" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="38780:38946" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="38952:38970" ph="/**...*/" />
+                <marker date="1512375083903" expanded="true" signature="39023:39164" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="39170:39188" ph="/**...*/" />
+                <marker date="1512375083903" expanded="true" signature="39256:39471" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="39477:39495" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="39549:39560" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="39591:39597" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="39603:39621" ph="/**...*/" />
+                <marker date="1512375083903" expanded="false" signature="39687:39698" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="39732:39738" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="39842:40041" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="40082:40093" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="40119:40125" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="40167:40178" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="40205:40211" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="40243:40254" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="40274:40280" ph=" }" />
+                <marker date="1512375083903" expanded="false" signature="40316:40327" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="40351:40357" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="40370:40635" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EncodingUtil.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/util/EncodingUtil.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1512375083903" expanded="false" signature="158:432" ph="..." />
+                <marker date="1512375083903" expanded="true" signature="639:1070" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="1189:1800" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="1890:2544" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="2609:2620" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="2668:2674" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="2739:3353" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="3407:3766" ph="{...}" />
+                <marker date="1512375083903" expanded="true" signature="3845:4223" ph="{...}" />
+                <marker date="1512375083903" expanded="false" signature="4277:4288" ph=" { " />
+                <marker date="1512375083903" expanded="false" signature="4332:4338" ph=" }" />
+                <marker date="1512375083903" expanded="true" signature="4367:4374" ph="{}" />
+                <marker date="1512375083903" expanded="true" signature="4387:4664" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>C</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/secret/vo/ResultEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/secret/util/HttpClientSecretUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/secret/test/bdm/BaseEmp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaseEmp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/ResultEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretUtil.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpPostParamsVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretGetUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretPostUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/BaseApiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpCommonUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretSendUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/pp/PpApiTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpSecretVo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseEmpApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseBankApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/pp/PpPriceDiscountRestControllerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\0-dev-all\0maven-repository" />
+        <option name="mavenHome" value="C:/0-dev-all/0maven_m2/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\0-dev-all\0maven_m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="http-client-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="http-client-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1773" />
+    <option name="y" value="55" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="secret" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="secret" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="secret" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="secret" type="462c0819:PsiDirectoryNode" />
+              <item name="bdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rosefinch-base-httpClientTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rosefinch-base-httpClientTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="secret" type="462c0819:PsiDirectoryNode" />
+              <item name="pp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ycgwl.http.secret.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\devloper-tool\0000ycgwl-share\httpClientTest\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.http-client-test [deploy]">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="BaseBankApiTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ycgwl.http.secret.bdm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="httpClientTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ycgwl.http.secret.bdm" />
+      <option name="MAIN_CLASS_NAME" value="com.ycgwl.http.secret.bdm.BaseBankApiTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="BaseEmpApiTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ycgwl.http.secret.bdm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="http-client-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ycgwl.http.secret.bdm" />
+      <option name="MAIN_CLASS_NAME" value="com.ycgwl.http.secret.bdm.BaseEmpApiTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="BaseEmpApiTest.post" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ycgwl.http.secret.bdm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="http-client-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ycgwl.http.secret.bdm" />
+      <option name="MAIN_CLASS_NAME" value="com.ycgwl.http.secret.bdm.BaseEmpApiTest" />
+      <option name="METHOD_NAME" value="post" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PpPriceDiscountRestControllerTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ycgwl.http.secret.pp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="http-client-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ycgwl.http.secret.pp" />
+      <option name="MAIN_CLASS_NAME" value="com.ycgwl.http.secret.pp.PpPriceDiscountRestControllerTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PpPriceDiscountRestControllerTest.post" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ycgwl.http.secret.pp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="http-client-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ycgwl.http.secret.pp" />
+      <option name="MAIN_CLASS_NAME" value="com.ycgwl.http.secret.pp.PpPriceDiscountRestControllerTest" />
+      <option name="METHOD_NAME" value="post" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="http-client-test [deploy]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="deploy" />
+                <option value="-Dmaven.test.skip=true" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Maven.http-client-test [deploy]" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.BaseBankApiTest.get" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PpPriceDiscountRestControllerTest.get" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PpPriceDiscountRestControllerTest.post" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BaseEmpApiTest.post" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.BaseEmpApiTest.get" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PpPriceDiscountRestControllerTest.get" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PpPriceDiscountRestControllerTest.post" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BaseEmpApiTest.get" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BaseEmpApiTest.post" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BaseBankApiTest.get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator.WINDOWS-SA17JP9\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc339072-0ae6-41cf-ad34-bb7f2f65f0f4" name="Default" comment="" />
+      <created>1517969815425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517969815425</updated>
+      <workItem from="1517969819488" duration="8833000" />
+      <workItem from="1517982024867" duration="2086000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加 rosefinch http测试组件">
+      <created>1517982194599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517982194599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加 rosefinch http测试组件">
+      <created>1517982489401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517982489401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BaseEmpApiTest_get - 2018.02.07 at 14h 13m 04s.xml">
+      <configuration name="BaseEmpApiTest.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseEmpApiTest_post - 2018.02.07 at 14h 12m 56s.xml">
+      <configuration name="BaseEmpApiTest.post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_get - 2018.02.07 at 14h 07m 21s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_get - 2018.02.07 at 14h 07m 47s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_get - 2018.02.07 at 14h 12m 42s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_get - 2018.02.07 at 14h 13m 28s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_post - 2018.02.07 at 14h 06m 50s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_post - 2018.02.07 at 14h 07m 41s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_post - 2018.02.07 at 14h 12m 35s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PpPriceDiscountRestControllerTest_post - 2018.02.07 at 14h 13m 24s.xml">
+      <configuration name="PpPriceDiscountRestControllerTest.post" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10919000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1773" y="55" width="1616" height="876" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3402778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6111111" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30526993" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加 rosefinch http测试组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 rosefinch http测试组件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/secret/test/bdm/BaseEmp.java</url>
+          <line>14</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretSendUtil.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseBankApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseEmpApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="56" lean-forward="false" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar!/META-INF/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretSendUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpSecretVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpParamsVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpCommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/HttpMethodBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="160" column="51" lean-forward="false" selection-start-line="160" selection-start-column="51" selection-end-line="160" selection-end-column="51" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="153:897" ph="..." />
+            <marker date="1512375083903" expanded="true" signature="1823:1841" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="2276:2283" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="2378:2682" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="2767:3462" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3516:3742" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="3803:3814" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="3853:3859" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="3900:3911" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="3939:3945" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="3951:3969" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="4012:4185" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="4227:4238" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4267:4273" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="4336:4347" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4388:4394" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="4400:4418" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="4448:4459" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4520:4526" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="4564:4575" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4592:4598" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="4648:4887" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="4937:4948" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5003:5009" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="5038:5049" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5117:5123" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="5175:5186" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5217:5223" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="5280:5434" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="5470:5481" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5505:5511" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="5585:5692" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="5742:6020" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="6076:6187" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="6228:6239" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6291:6297" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6355:6366" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6425:6431" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6482:6493" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6520:6526" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6585:6596" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6631:6637" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6689:6700" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6728:6734" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="6794:6870" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="6902:6913" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6952:6958" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6997:7008" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="7031:7037" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="7078:7089" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="7153:7159" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="7201:7212" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="7265:7271" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="7328:7440" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="7485:8281" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="8338:9684" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="9754:10143" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="10208:10443" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="10485:10496" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="10556:10562" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="10619:10738" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="10804:10815" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="10852:10858" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="10905:10916" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="10943:10949" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="10984:10995" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="11036:11042" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="11048:11066" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="11117:11255" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="11261:11279" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="11313:11324" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="11337:11343" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="11417:11492" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="11541:11552" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="11586:11592" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="11649:11798" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="11865:13933" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="14034:14516" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="14613:15229" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="15255:15470" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="15504:15515" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="15532:15538" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="15544:15562" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="15589:16409" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="16447:16760" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="16817:17033" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="17086:17196" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="17227:17238" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="17250:17256" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="17312:17784" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="17900:19207" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="19321:19909" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="20027:20299" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="20410:20708" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="20827:21243" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="21308:21412" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="21474:21575" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="21715:22907" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="22986:22993" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="23075:24877" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="24954:24961" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="25067:25819" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="25929:26277" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="26375:29444" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="29213:29293" ph="responseConsumed() → {" />
+            <marker date="1512375083903" expanded="false" signature="29370:29389" ph="}" />
+            <marker date="1512375083903" expanded="true" signature="29557:30074" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="30182:31755" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="31861:34153" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="34266:34294" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="34407:34923" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="35033:35361" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="35418:35556" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="35597:35608" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="35627:35633" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="35686:35862" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="35908:35919" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="35948:35954" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="36015:36263" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="36269:36287" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="36335:36346" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="36384:36390" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="36396:36414" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="36457:36468" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="36505:36511" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="36574:37273" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="37312:37323" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="37392:37398" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="37438:37449" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="37519:37525" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="37531:37549" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="37595:37606" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="37644:37650" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="37694:38735" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="38780:38946" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="38952:38970" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="39023:39164" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="39170:39188" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="39256:39471" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="39477:39495" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="39549:39560" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="39591:39597" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="39603:39621" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="39687:39698" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="39732:39738" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="39842:40041" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="40082:40093" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40119:40125" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="40167:40178" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40205:40211" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="40243:40254" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40274:40280" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="40316:40327" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40351:40357" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="40370:40635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/util/EncodingUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="158:432" ph="..." />
+            <marker date="1512375083903" expanded="true" signature="639:1070" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1189:1800" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1890:2544" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="2609:2620" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="2668:2674" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="2739:3353" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3407:3766" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3845:4223" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="4277:4288" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4332:4338" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="4367:4374" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="4387:4664" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/secret/vo/HttpPostParamsVo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/secret/vo/ResultEntity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/secret/vo/HttpSecretVo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/secret/test/bdm/BaseEmp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/secret/test/bdm/BaseEmp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/secret/util/HttpClientSecretUtil.java" />
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/ResultEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/methods/GetMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="161:291" ph="..." />
+            <marker date="1512375083903" expanded="false" signature="398:409" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="439:445" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="480:592" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="621:632" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="645:651" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="657:675" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="702:821" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="834:1111" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/HttpMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="39" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="153:316" ph="..." />
+            <marker date="1512375083903" expanded="true" signature="375:393" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="587:605" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="649:667" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="1893:1911" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretGetUtil.java" />
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/methods/ExpectContinueMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/methods/EntityEnclosingMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/methods/PostMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="161:398" ph="..." />
+            <marker date="1512375083903" expanded="true" signature="657:664" ph="{}" />
+            <marker date="1512375083903" expanded="false" signature="699:710" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="721:727" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="756:767" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="781:787" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="831:971" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1011:1139" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1193:1593" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1669:1847" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1905:2373" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="2418:2778" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="2878:3252" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3336:3613" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3673:4034" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="4121:4739" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="4845:5582" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="5679:5994" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="6007:6288" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/HttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="114" column="39" lean-forward="false" selection-start-line="114" selection-start-column="29" selection-end-line="114" selection-end-column="39" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="153:382" ph="..." />
+            <marker date="1512375083903" expanded="false" signature="640:651" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="680:686" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="735:1790" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1884:2534" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="2603:2671" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="2717:2728" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="2746:2752" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="2808:2819" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="2838:2844" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="2850:2868" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="2932:3070" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3076:3094" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="3141:3152" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="3165:3171" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="3177:3195" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="3266:3333" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3339:3357" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="3433:3498" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3504:3522" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="3603:3705" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3789:3946" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="4067:4236" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="4367:5354" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="5360:5378" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="5406:5417" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5457:5463" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="5469:5487" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="5512:5523" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5563:5569" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="5635:5646" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5676:5682" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="5771:5830" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="5904:5915" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5949:5955" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="6056:6261" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="6302:6313" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6332:6338" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="6391:6567" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="6580:7801" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/com/ycky/ycapp-framework/1.0.0/ycapp-framework-1.0.0.jar!/com/ycky/app/util/SecurityUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <marker date="1513055456088" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1513055456088" expanded="false" signature="141:343" ph="..." />
+            <marker date="1513055456088" expanded="true" signature="496:503" ph="{}" />
+            <marker date="1513055456088" expanded="true" signature="558:649" ph="{...}" />
+            <marker date="1513055456088" expanded="true" signature="727:1213" ph="{...}" />
+            <marker date="1513055456088" expanded="true" signature="1292:1679" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar!/org/apache/commons/codec/binary/Base64.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <marker date="1511937757221" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1511937757221" expanded="false" signature="155:341" ph="..." />
+            <marker date="1511937757221" expanded="true" signature="943:950" ph="{}" />
+            <marker date="1511937757221" expanded="true" signature="1001:1137" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="1203:1571" ph="{...}" />
+            <marker date="1511937757221" expanded="false" signature="1629:1640" ph=" { " />
+            <marker date="1511937757221" expanded="false" signature="1679:1685" ph=" }" />
+            <marker date="1511937757221" expanded="false" signature="1750:1761" ph=" { " />
+            <marker date="1511937757221" expanded="false" signature="1799:1805" ph=" }" />
+            <marker date="1511937757221" expanded="true" signature="1872:2130" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="2172:2248" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="2326:6033" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="6092:8114" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="8165:8688" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="8738:9138" ph="{...}" />
+            <marker date="1511937757221" expanded="true" signature="9205:9463" ph="{...}" />
+            <marker date="1511937757221" expanded="false" signature="9504:9515" ph=" { " />
+            <marker date="1511937757221" expanded="false" signature="9550:9556" ph=" }" />
+            <marker date="1511937757221" expanded="true" signature="9569:10497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar!/META-INF/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/BaseApiTest.java" />
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/util/EncodingUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="158:432" ph="..." />
+            <marker date="1512375083903" expanded="true" signature="639:1070" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1189:1800" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="1890:2544" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="2609:2620" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="2668:2674" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="2739:3353" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3407:3766" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3845:4223" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="4277:4288" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4332:4338" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="4367:4374" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="4387:4664" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/0-dev-all/0maven-repository/commons-httpclient/commons-httpclient/3.0.1/commons-httpclient-3.0.1.jar!/org/apache/commons/httpclient/HttpMethodBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="160" column="51" lean-forward="false" selection-start-line="160" selection-start-column="51" selection-end-line="160" selection-end-column="51" />
+          <folding>
+            <marker date="1512375083903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512375083903" expanded="false" signature="153:897" ph="..." />
+            <marker date="1512375083903" expanded="true" signature="1823:1841" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="2276:2283" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="2378:2682" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="2767:3462" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="3516:3742" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="3803:3814" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="3853:3859" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="3900:3911" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="3939:3945" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="3951:3969" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="4012:4185" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="4227:4238" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4267:4273" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="4336:4347" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4388:4394" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="4400:4418" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="4448:4459" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4520:4526" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="4564:4575" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="4592:4598" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="4648:4887" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="4937:4948" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5003:5009" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="5038:5049" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5117:5123" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="5175:5186" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5217:5223" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="5280:5434" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="5470:5481" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="5505:5511" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="5585:5692" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="5742:6020" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="6076:6187" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="6228:6239" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6291:6297" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6355:6366" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6425:6431" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6482:6493" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6520:6526" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6585:6596" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6631:6637" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6689:6700" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6728:6734" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="6794:6870" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="6902:6913" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="6952:6958" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="6997:7008" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="7031:7037" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="7078:7089" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="7153:7159" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="7201:7212" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="7265:7271" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="7328:7440" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="7485:8281" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="8338:9684" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="9754:10143" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="10208:10443" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="10485:10496" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="10556:10562" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="10619:10738" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="10804:10815" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="10852:10858" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="10905:10916" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="10943:10949" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="10984:10995" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="11036:11042" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="11048:11066" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="11117:11255" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="11261:11279" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="11313:11324" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="11337:11343" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="11417:11492" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="11541:11552" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="11586:11592" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="11649:11798" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="11865:13933" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="14034:14516" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="14613:15229" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="15255:15470" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="15504:15515" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="15532:15538" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="15544:15562" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="15589:16409" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="16447:16760" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="16817:17033" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="17086:17196" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="17227:17238" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="17250:17256" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="17312:17784" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="17900:19207" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="19321:19909" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="20027:20299" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="20410:20708" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="20827:21243" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="21308:21412" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="21474:21575" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="21715:22907" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="22986:22993" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="23075:24877" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="24954:24961" ph="{}" />
+            <marker date="1512375083903" expanded="true" signature="25067:25819" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="25929:26277" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="26375:29444" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="29213:29293" ph="responseConsumed() → {" />
+            <marker date="1512375083903" expanded="false" signature="29370:29389" ph="}" />
+            <marker date="1512375083903" expanded="true" signature="29557:30074" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="30182:31755" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="31861:34153" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="34266:34294" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="34407:34923" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="35033:35361" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="35418:35556" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="35597:35608" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="35627:35633" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="35686:35862" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="35908:35919" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="35948:35954" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="36015:36263" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="36269:36287" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="36335:36346" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="36384:36390" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="36396:36414" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="36457:36468" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="36505:36511" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="36574:37273" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="37312:37323" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="37392:37398" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="37438:37449" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="37519:37525" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="37531:37549" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="37595:37606" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="37644:37650" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="37694:38735" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="38780:38946" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="38952:38970" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="39023:39164" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="39170:39188" ph="/**...*/" />
+            <marker date="1512375083903" expanded="true" signature="39256:39471" ph="{...}" />
+            <marker date="1512375083903" expanded="true" signature="39477:39495" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="39549:39560" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="39591:39597" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="39603:39621" ph="/**...*/" />
+            <marker date="1512375083903" expanded="false" signature="39687:39698" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="39732:39738" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="39842:40041" ph="{...}" />
+            <marker date="1512375083903" expanded="false" signature="40082:40093" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40119:40125" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="40167:40178" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40205:40211" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="40243:40254" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40274:40280" ph=" }" />
+            <marker date="1512375083903" expanded="false" signature="40316:40327" ph=" { " />
+            <marker date="1512375083903" expanded="false" signature="40351:40357" ph=" }" />
+            <marker date="1512375083903" expanded="true" signature="40370:40635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpParamsVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseBankApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/bdm/BaseEmpApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ycgwl/http/secret/pp/PpPriceDiscountRestControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpClientSecretSendUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="67" column="35" lean-forward="false" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/util/HttpCommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ycgwl/http/secret/vo/HttpSecretVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>httpClientTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.1.34</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
